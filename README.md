@@ -1,6 +1,6 @@
-## FORGOTTEN PLUTONIUM
+## ForgottenPlutonium
 
-Why this name? Because I think TinyImageNet Dataset is underrated and I wanted to make it cool again and radioactive	:sunglasses:
+*Why this name? Because I think TinyImageNet Dataset is underrated and I wanted to make it cool and radioactive	:sunglasses:
 
 **Notebook**: ![TinyImageNet Classifier](https://github.com/Gilf641/ForgottenPlutonium/blob/master/classifier.ipynb)
 
